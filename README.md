@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Parthiv</h1>
-<h3 align="center">A full stack and game developer</h3>
+<h3 align="center">A full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthivvv&label=Profile%20views&color=0e75b6&style=flat" alt="parthivvv" /> </p>
 
