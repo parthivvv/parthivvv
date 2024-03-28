@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthivvv&label=Profile%20views&color=0e75b6&style=flat" alt="parthivvv" /> </p>
 
-- 🔭 I’m currently working on ThriftIn
+- 🔭 I’m currently working on SynthiFy
 
-- 🌱 I’m currently learning **ML, Android Development and MERN**
-
-- 💬 Ask me about **Game Development**
+- 💬 Ask me about **Game Development and Blockchain**
 
 - 📫 How to reach me **parthiv.c2002@gmail.com**
 
