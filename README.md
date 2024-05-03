@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthivvv&label=Profile%20views&color=0e75b6&style=flat" alt="parthivvv" /> </p>
 
-- 🔭 I’m currently working on Rayo, Soln. and DealNudge
-
-- 💬 Ask me about **Game Development and Blockchain**
-
 - 📫 How to reach me **parthiv.c2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
