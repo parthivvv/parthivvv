@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=parthivvv&label=Profile%20views&color=0e75b6&style=flat" alt="parthivvv" />
 </p>
 
-<p align="center">🚀 Inactive here; see <a href="https://github.com/ParthivRayo">ParthivRayo</a> where I'm building the best accessibility AI assistant.</p>
-
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
   <a href="mailto:parthiv.c2002@gmail.com"><img src="https://img.shields.io/badge/Email-parthiv.c2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
