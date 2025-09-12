@@ -6,7 +6,7 @@ Builder. Product-driven engineer.
 
 ### About Me
 
-I'm a full-stack engineer that loves to build fast and ship software that scales.
+I'm a software engineer that loves to build fast and ship software that scales (sometimes break things as well).
 
 ---
 
