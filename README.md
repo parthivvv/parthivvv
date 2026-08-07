@@ -1,19 +1,22 @@
-# Parthiv Chandran
+<h1 align="center">Parthiv Chandran</h1>
 
-Builder. Engineer. CTO @ Invariant AI
+<p align="center">
+  <em>Builder. Engineer. CTO @ Invariant AI</em>
+</p>
 
----
+<p align="center">
+  <img src="https://media1.tenor.com/m/WFSqF_j5OMoAAAAC/drip-monke.gif" width="220" alt="drip monke" />
+</p>
 
-monki write code
-<br>
-monki make money with code
-<br>
-monki happi
+<p align="center">
+  <b>monki write code</b><br>
+  <b>monki make money with code</b><br>
+  <b>monki happi</b>
+</p>
 
+<h3 align="center">Let's Connect</h3>
 
-### Let's Connect
-
-- LinkedIn: [linkedin.com/in/parthivvv](https://linkedin.com/in/parthivvv)
-- Email: parthiv@invariant-ai.com
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/parthivvv">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="mailto:parthiv@invariant-ai.com">Email</a>
+</p>
